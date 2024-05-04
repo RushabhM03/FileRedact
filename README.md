@@ -80,6 +80,11 @@ streamlit run streamlit_app.py
 
 <br><br>
 
+## ⚓ Host
+https://fileredact.streamlit.app/
+
+<br><br>
+
 ## 👩 Contributors
 Team members
 
