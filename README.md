@@ -1,4 +1,4 @@
-# FileRedact
+# FileRedact (app)
 ### An optimized NLP powered file redaction system
 
 
